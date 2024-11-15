@@ -79,24 +79,6 @@ $ python3 -m pip install numpy adafruit_servokit busio sympy
 ```
 
 
-## Team
-
-| <a href="http://fvcproductions.com" target="_blank">**Chinmay Nehate**</a> | <a href="http://fvcproductions.com" target="_blank">**Suyash More**</a> | <a href="http://fvcproductions.com" target="_blank">**Shashank Deshmukh**</a> |
-| :---: |:---:| :---:|
-| [![Chinmay Nehate](https://avatars0.githubusercontent.com/u/42030910?s=460&u=8f503c88db898081aaf11c7fd9ca2a36bcc56716&v=4)](https://github.com/chinmaynehate)    | [![Suyash More](https://avatars1.githubusercontent.com/u/29707660?s=460&u=c73a6d9697a744762277dde68183010426a2818d&v=4)](https://github.com/SuyashMore) | [![Shashank Deshmukh](https://avatars0.githubusercontent.com/u/33441200?s=460&v=4)](https://github.com/shanks-d)  |
-| <a href="http://github.com/chinmaynehate" target="_blank">`github.com/chinmaynehate`</a> | <a href="http://github.com/SuyashMore" target="_blank">`github.com/SuyashMore`</a> | <a href="http://github.com/shanks-d" target="_blank">`github.com/shanks-d`</a> |
-
-
----
-
-## FAQ
-
-- **How do I do *specifically* so and so?**
-    - Create an Issue to this repo , we will respond to the query
-
----
-
-
 
 ## License
 
